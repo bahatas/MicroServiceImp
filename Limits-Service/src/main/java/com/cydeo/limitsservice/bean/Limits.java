@@ -1,4 +1,4 @@
-package com.example.microserviceimp.bean;
+package com.cydeo.limitsservice.bean;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

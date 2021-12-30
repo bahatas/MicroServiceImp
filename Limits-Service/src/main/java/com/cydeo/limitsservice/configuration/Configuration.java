@@ -1,4 +1,4 @@
-package com.example.microserviceimp.configuration;
+package com.cydeo.limitsservice.configuration;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
